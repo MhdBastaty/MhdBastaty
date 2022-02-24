@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MhdBastaty
-- 👀 I’m interested in .Software engineering and Webdevelopment 
-- 🌱 I’m currently learning Laravel and ReactJs
+- 👀 I’m a Software Developer 
+- 🌱 I’m working with NodeJs,ReactJs
 - 💞️ I’m looking to collaborate on working with great team 
 - 📫 How to reach me ...
 
